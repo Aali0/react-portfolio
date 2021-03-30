@@ -26,7 +26,7 @@
   -
 
   ## License
-  GNU
+  MIT
 
   ## GitHub
   https://github.com/Aali0
