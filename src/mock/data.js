@@ -20,7 +20,7 @@ export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: "Hi! Welcome to my site. I'm Ahmed Ali, a fullstack software developer. My web applications are built with meticulous detail to perform exceptionally across all hardware.",
   paragraphTwo: 'MERN stack development.',
-  paragraphThree: 'Experienced in: HTML/CSS | JS | Node | React | jQuery | Express | Python | WordPress | MySQL | Mongo | Elasticsearch | Gatsby | Flask | Pandas | Numpy | Jest | GraphQL | REST API | Serverless | AWS | ETL | PWAs | TDD | Handlebars | Jinja | Jenkins | GIT | Linux | Apache | Docker | Airtable | Integromat | Jira/Confluence',
+  paragraphThree: 'Experienced in: HTML/CSS | JS | Node | React | jQuery | Express | Python | PHP | WordPress | MySQL | Mongo | Elasticsearch | Gatsby | Flask | Pandas | Numpy | Jest | GraphQL | REST API | Serverless | AWS | ETL | PWAs | TDD | Handlebars | Jinja | Jenkins | GIT | Linux | Apache | Docker | Airtable | Integromat | Jira/Confluence',
   resume: '',
 };
 
